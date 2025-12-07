@@ -94,17 +94,3 @@ Kết nối module USB-to-TTL với Raspberry Pi Pico theo bảng sau:
 
 \* Đã cài đặt `pico-sdk`.
 
-
-
-\### Các bước thực hiện
-
-
-
-\*\*Bước 1: Clone dự án về máy\*\*
-
-```bash
-
-git clone <link-github-cua-ban>
-
-cd lab\_microros\_pico
-
