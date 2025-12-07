@@ -92,5 +92,10 @@ Kết nối module USB-to-TTL với Raspberry Pi Pico theo bảng sau:
 
 \* Đã cài đặt `micro\_ros\_agent`.
 
+
+
+https://docs.google.com/document/d/1i1nqq8iLcRHCSCVXk2kg9b8VHD5_XE-KeO82tCq_T3s/edit?usp=sharing
+
+
 \* Đã cài đặt `pico-sdk`.
 
